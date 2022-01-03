@@ -5,7 +5,7 @@ En az iki farklı rakam olmalıdır (tüm rakamlar aynı olamaz)
 Son rakam çift olmalıdır.
 Tüm rakamların toplamı 16'dan büyük olmalıdır.
 👉 Örnek olarak valid kredi kartı numaraları
-
+<br/>
 9999777788880000
 6666666666661666
 👉 Invalid kart numaraları
